@@ -1,3 +1,0 @@
-mkdir app
-touch app/__init__.py app/routes.py app/models.py app/forms.py
-touch config.py run.py
