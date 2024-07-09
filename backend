@@ -1,0 +1,27 @@
+personal-finance-tracker/
+├── backend/
+│   ├── controllers/
+│   │   └── userController.js
+│   │   └── financeController.js
+│   ├── models/
+│   │   └── User.js
+│   │   └── Transaction.js
+│   ├── routes/
+│   │   └── userRoutes.js
+│   │   └── financeRoutes.js
+│   ├── .env
+│   ├── server.js
+│   └── config/
+│       └── db.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   ├── index.js
+│   ├── .env
+│   ├── package.json
+│   └── webpack.config.js
+├── .gitignore
+├── README.md
